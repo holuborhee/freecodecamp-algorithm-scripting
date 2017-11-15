@@ -1,3 +1,7 @@
+/* Function to find the longest word in a sentence, 
+		it returns only the length of the word and not the word itself
+*/
+
 function findLongestWord(str) {
   //Split the String into an array
   var splittedStr = str.split(' ');
